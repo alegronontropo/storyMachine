@@ -1,0 +1,21 @@
+# Secrets and credentials
+api_key.txt
+credentials.json
+token.json
+
+# Python artifacts
+*.pyc
+__pycache__/
+
+# Build artifacts and distribution packages
+build/
+dist/
+*.exe
+*.pkg
+*.pyz
+
+# Temporary upload cache
+.tmp.driveupload/
+
+# Local backups
+backup/
